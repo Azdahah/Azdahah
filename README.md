@@ -81,7 +81,7 @@
 
 ###
 
-]<div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Azdahah&color=blueviolet&style=flat-square" height="70" alt="Profile Views" />
 </div>
 
