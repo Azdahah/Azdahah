@@ -29,30 +29,31 @@
  
 
   <img src="https://github-readme-stats.vercel.app/api?username=Azdahah&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_red" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azdahah&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azdahah&layout=compact&langs_count=5&theme=shadow_red" height="150" alt="languages graph" />
 </div>
 ###
 
 ### 📌 Projects
 <div align="center">
   <a href="https://github.com/Azdahah/Hospital-Management-System-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Hospital-Management-System-&theme=dracula&hide" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Hospital-Management-System-&theme=shadow_red&hide" />
   </a>
   <a href="https://github.com/Azdahah/bespoke-clothing-website-aict">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=bespoke-clothing-website-aict&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=bespoke-clothing-website-aict&theme=shadow_red" />
   </a>
   <a href="https://github.com/Azdahah/Snake-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Snake-Game&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Snake-Game&theme=shadow_red" />
   </a>
     <a href="https://github.com/Azdahah/Roll-a-Dice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Roll-a-Dice&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Roll-a-Dice&theme=shadow_red" />
   </a>
 </div>
 
 ###
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azdahah&theme=dracula" width="80%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azdahah&bg_color=0d1117&color=ff0000&line=ff4d4d&point=ff1a1a&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+
 </div>
 
 ###
