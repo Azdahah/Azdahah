@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋! My name is Azdahah and I'm a ..., from ....</h2>
+<div align="center">
+  
+# `Azdahah`
+
+
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubaidullahkamran4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ubaidullah-kamran-mughal-9a969432b/)
+
+
+</div>
 
 <!-- Pac-Man contribution animation -->
 <picture>
@@ -8,18 +19,24 @@
 </picture>
 
 ###
-
+### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azdahah&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+ <img src="https://nirzak-streak-stats.vercel.app/?user=Azdahah&theme=shadow_red&show_border=false" height="150" alt="streak stats graph" />
+  
+</div>
+<br/>
+<div align="center">
+ 
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Azdahah&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_red" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azdahah&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
-
 ###
 
 ### 📌 Projects
 <div align="center">
   <a href="https://github.com/Azdahah/Hospital-Management-System-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Hospital-Management-System-&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Hospital-Management-System-&theme=dracula&hide" />
   </a>
   <a href="https://github.com/Azdahah/bespoke-clothing-website-aict">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=bespoke-clothing-website-aict&theme=dracula" />
@@ -27,12 +44,15 @@
   <a href="https://github.com/Azdahah/Snake-Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Snake-Game&theme=dracula" />
   </a>
+    <a href="https://github.com/Azdahah/Roll-a-Dice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Roll-a-Dice&theme=dracula" />
+  </a>
 </div>
 
 ###
-
+### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azdahah&theme=dracula" width="100%" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azdahah&theme=dracula" width="80%" alt="activity graph"/>
 </div>
 
 ###
@@ -54,9 +74,8 @@
 ###
 ### 🌐 Connect with Me  
 <div align ="center">
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
+  <a href="https://www.instagram.com/ubaidullah_mughal23/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
+  <a href="https://www.linkedin.com/in" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
 </div>
 
 ###
