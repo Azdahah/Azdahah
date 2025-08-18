@@ -79,6 +79,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azdahah&color=blueviolet&style=flat-square" width="250" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Azdahah&color=blueviolet&style=flat-square" width="200" alt="Profile Views" />
 </div>
 
