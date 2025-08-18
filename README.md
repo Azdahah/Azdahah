@@ -66,4 +66,3 @@
 ###
 
 <br clear="both">
-I want to show my projects as well like two or three of them
