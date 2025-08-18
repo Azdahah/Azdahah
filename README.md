@@ -7,8 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubaidullahkamran4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ubaidullah-kamran-mughal-9a969432b/)
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ubaidullah_mughal23)
 </div>
 
 <!-- Pac-Man contribution animation -->
@@ -19,7 +18,7 @@
 </picture>
 
 ###
-### 📊 GitHub Stats  
+### 📊 GitHub Stats<br/>  
 <div align="center">
  <img src="https://nirzak-streak-stats.vercel.app/?user=Azdahah&theme=shadow_red&show_border=false" height="150" alt="streak stats graph" />
   
@@ -31,9 +30,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Azdahah&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_red" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azdahah&layout=compact&langs_count=5&theme=shadow_red" height="150" alt="languages graph" />
 </div>
-###
 
 ### 📌 Projects
+<br/>
 <div align="center">
   <a href="https://github.com/Azdahah/Hospital-Management-System-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Hospital-Management-System-&theme=shadow_red&hide" />
@@ -48,18 +47,19 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azdahah&repo=Roll-a-Dice&theme=shadow_red" />
   </a>
 </div>
+<br/>
 
-###
 ### 📈 Contribution Graph
+<br/>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azdahah&bg_color=0d1117&color=ff0000&line=ff4d4d&point=ff1a1a&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
-
-###
+<br/>
 
 ### 💻 Tech Stack
 <div align="center">
+<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
@@ -71,17 +71,14 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sfml.svg" height="30" alt="sfml" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="swing" />
 </div>
+<br>
 
-###
-### 🌐 Connect with Me  
-<div align ="center">
-  <a href="https://www.instagram.com/ubaidullah_mughal23/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="https://www.linkedin.com/in" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
-</div>
 
-###
+
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azdahah&color=blueviolet&style=flat-square" height="70" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Azdahah&color=blueviolet&style=flat-square" width="250" alt="Profile Views" />
 </div>
 
